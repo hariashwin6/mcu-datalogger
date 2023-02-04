@@ -13,7 +13,8 @@ _autosave-*
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
-
+mcudatalogger2-backups
+mcudatalogger2.kicad_prl
 # Netlist files (exported from Eeschema)
 *.net
 
