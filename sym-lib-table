@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "DS1337S_")(type "KiCad")(uri "C:/Users/ashwi/Downloads/Compressed/DS1337S_/DS1337S_.kicad_sym")(options "")(descr ""))
+  (lib (name "ATMEGA328-AU")(type "KiCad")(uri "C:/Users/ashwi/Downloads/Compressed/ATMEGA328-AU/ATMEGA328-AU.kicad_sym")(options "")(descr ""))
+)
