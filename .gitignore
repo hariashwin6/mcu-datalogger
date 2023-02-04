@@ -14,7 +14,7 @@ _autosave-*
 *-save.kicad_pcb
 fp-info-cache
 mcudatalogger2-backups
-mcudatalogger2.kicad_prl
+
 # Netlist files (exported from Eeschema)
 *.net
 
@@ -24,4 +24,4 @@ mcudatalogger2.kicad_prl
 
 # Exported BOM files
 *.xml
-*.csv
+
