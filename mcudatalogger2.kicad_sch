@@ -62,6 +62,24 @@
   )
 
 
+  (symbol (lib_id "pspice:OPAMP") (at 120.65 81.28 0) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid 33c06d8b-305c-476e-8f99-f7a5ff73f6f9)
+    (property "Reference" "U?" (id 0) (at 130.81 76.581 0))
+    (property "Value" "OPAMP" (id 1) (at 130.81 79.121 0))
+    (property "Footprint" "" (id 2) (at 120.65 81.28 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 120.65 81.28 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 8cc02500-ad55-4397-bcdb-a1acf33eb524))
+    (pin "2" (uuid 54a6a4d2-baec-4125-b321-0d6cf858ee52))
+    (pin "3" (uuid b7f8d76d-e50b-4707-863b-e463bb3c2bfe))
+    (pin "4" (uuid a8f18bc9-0a2e-48fd-aa72-f4d512a1f5aa))
+    (pin "5" (uuid 64e18e69-2b4c-4773-a176-0628328fb191))
+  )
+
   (symbol (lib_id "pspice:OPAMP") (at 171.45 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 54b0844f-3a07-47b5-8f74-83a0fc1a210a)
@@ -103,6 +121,9 @@
   )
 
   (symbol_instances
+    (path "/33c06d8b-305c-476e-8f99-f7a5ff73f6f9"
+      (reference "U?") (unit 1) (value "OPAMP") (footprint "")
+    )
     (path "/54b0844f-3a07-47b5-8f74-83a0fc1a210a"
       (reference "U?") (unit 1) (value "OPAMP") (footprint "")
     )
